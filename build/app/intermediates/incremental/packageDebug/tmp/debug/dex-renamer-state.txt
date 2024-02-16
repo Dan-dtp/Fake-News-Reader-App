@@ -1,0 +1,4 @@
+#Thu Feb 15 14:25:20 AST 2024
+base.0=/Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

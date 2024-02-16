@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/olalekanmoshood/.gradle/caches/transforms-3/87b3b42bc284f7739d4ad7164ecf4fa5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/olalekanmoshood/.gradle/caches/transforms-3/87b3b42bc284f7739d4ad7164ecf4fa5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/48599fbedc665e007298a89c0e6a3cd0/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/836deee0290022c4f8273d508f8f3922/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/7016326586e45d7a0e6de2ea0d4aa6da/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/5b05821dc7a68dd98fb8e5d8aa09ad0c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/768b1df981461a190944f203ea501a10/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/495ca863d08541c682f380ee9f7a28f3/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/99c2d6de20e30aa666e1cd249a6f8054/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/18100012865adcd9d48d1739b7555293/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/8252867756c2b2e79405b7eda7d0b3ed/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/05b1aa82d8abec5f0dc63f4b6498328b/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/56e8888bb85b775da42427ba6c576275/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/28fb15ada699bc56ca0fcd2c43d95016/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/olalekanmoshood/.gradle/caches/transforms-3/87b3b42bc284f7739d4ad7164ecf4fa5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/00f61d91fe828c633ac57333300d7d1a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/0c01de19b070c5dd94dfcac93ec4ebd3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/48599fbedc665e007298a89c0e6a3cd0/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/48599fbedc665e007298a89c0e6a3cd0/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/836deee0290022c4f8273d508f8f3922/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/836deee0290022c4f8273d508f8f3922/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/7016326586e45d7a0e6de2ea0d4aa6da/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/7016326586e45d7a0e6de2ea0d4aa6da/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/5b05821dc7a68dd98fb8e5d8aa09ad0c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/5b05821dc7a68dd98fb8e5d8aa09ad0c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/768b1df981461a190944f203ea501a10/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/768b1df981461a190944f203ea501a10/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/495ca863d08541c682f380ee9f7a28f3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/495ca863d08541c682f380ee9f7a28f3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/99c2d6de20e30aa666e1cd249a6f8054/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/99c2d6de20e30aa666e1cd249a6f8054/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/18100012865adcd9d48d1739b7555293/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/18100012865adcd9d48d1739b7555293/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/8252867756c2b2e79405b7eda7d0b3ed/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/8252867756c2b2e79405b7eda7d0b3ed/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/05b1aa82d8abec5f0dc63f4b6498328b/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/05b1aa82d8abec5f0dc63f4b6498328b/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/56e8888bb85b775da42427ba6c576275/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/56e8888bb85b775da42427ba6c576275/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/28fb15ada699bc56ca0fcd2c43d95016/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/28fb15ada699bc56ca0fcd2c43d95016/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/olalekanmoshood/.gradle/caches/transforms-3/87b3b42bc284f7739d4ad7164ecf4fa5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/olalekanmoshood/.gradle/caches/transforms-3/87b3b42bc284f7739d4ad7164ecf4fa5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/00f61d91fe828c633ac57333300d7d1a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/00f61d91fe828c633ac57333300d7d1a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/0c01de19b070c5dd94dfcac93ec4ebd3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/olalekanmoshood/.gradle/caches/transforms-3/0c01de19b070c5dd94dfcac93ec4ebd3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

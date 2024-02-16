@@ -1,0 +1,12 @@
+com.example.winning_streak_lab04.app-jetified-annotation-experimental-1.1.0-0 /Users/olalekanmoshood/.gradle/caches/transforms-3/0c01de19b070c5dd94dfcac93ec4ebd3/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.winning_streak_lab04.app-jetified-window-java-1.0.0-beta04-1 /Users/olalekanmoshood/.gradle/caches/transforms-3/48599fbedc665e007298a89c0e6a3cd0/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.winning_streak_lab04.app-jetified-window-1.0.0-beta04-2 /Users/olalekanmoshood/.gradle/caches/transforms-3/c4551c983037ae4008729f34ad9fc318/transformed/jetified-window-1.0.0-beta04/res
+com.example.winning_streak_lab04.app-core-1.6.0-3 /Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/res
+com.example.winning_streak_lab04.app-debug-4 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/debug/res
+com.example.winning_streak_lab04.app-main-5 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/android/app/src/main/res
+com.example.winning_streak_lab04.app-pngs-6 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/build/app/generated/res/pngs/debug
+com.example.winning_streak_lab04.app-resValues-7 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/build/app/generated/res/resValues/debug
+com.example.winning_streak_lab04.app-rs-8 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/build/app/generated/res/rs/debug
+com.example.winning_streak_lab04.app-mergeDebugResources-9 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.winning_streak_lab04.app-mergeDebugResources-10 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.winning_streak_lab04.app-merged_res-11 /Users/olalekanmoshood/Desktop/Folders/UPEI_3rd_Year/CS3130/cs3130-a1-fakenews-Dan-dtp/build/app/intermediates/merged_res/debug

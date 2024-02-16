@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.winning_streak_lab04.app-mergeDebugResources-9:/values-gu/values-gu.xml",
+            "map": [
+                {
+                    "source": "/Users/olalekanmoshood/.gradle/caches/transforms-3/cfcae8e73c85e157b827e2e46c5ce355/transformed/core-1.6.0/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
